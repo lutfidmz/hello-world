@@ -1,0 +1,19 @@
+body{
+    color:crimson;
+}
+
+p{
+    font-size: 80px;
+}
+
+.button-merah{
+    color: red;
+}
+
+.button-biru{
+    color: blue;
+}
+
+#button-hijau{
+    color: green;
+}
